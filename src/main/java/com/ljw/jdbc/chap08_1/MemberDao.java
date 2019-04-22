@@ -1,4 +1,4 @@
-package com.ljw.jdbc.chap08;
+package com.ljw.jdbc.chap08_1;
 
 import java.util.List;
 
@@ -10,7 +10,6 @@ import com.ljw.jdbc.chap03.Member;
  * 
  * @author Jacob
  */
-
 public interface MemberDao {
 
 	/**
